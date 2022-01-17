@@ -1,6 +1,6 @@
 # Data-Visualisation-using-Power-BI
 ## Introduction
-Company : Global Automotive Seating Company
+Company : Global Automotive Seating Company  
 • Major supplier of seating systems for automobiles across the world with 200+ seat manufacturing plants in 30+ countries  
 • 25 million cars equipped annually  
 ## Business Problems
