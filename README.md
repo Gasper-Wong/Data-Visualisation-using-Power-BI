@@ -14,3 +14,5 @@ Build an analytics dashboard to track plant's operational process i.e., downtime
 ![image](https://user-images.githubusercontent.com/92509475/149817542-97796a27-afd2-4ea4-b6ae-2e247a243a8d.png)
 ## Data Dictionary
 ![image](https://user-images.githubusercontent.com/92509475/149817634-0140beb4-a09e-41ca-9ab3-fdcfb5e48144.png)
+## Dashboarding Requirements  
+![image](https://user-images.githubusercontent.com/92509475/149817813-f5bc10bc-c38b-4357-a8bf-973b3c291369.png)
